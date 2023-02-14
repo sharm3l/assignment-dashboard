@@ -1,0 +1,29 @@
+body {
+  color: #333;
+}
+
+html {
+  background: #fff;
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-size: 32px;
+  margin: 0 0 24px;
+  padding: 0;
+}
+
+header a {
+  text-decoration: none;
+  color: #4f8bc9;
+}
+
+.header {
+  color: #4f8bc9;
+}
+
+.logo {
+  width: 50px;
+  height: 43px;
+}
